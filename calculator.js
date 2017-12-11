@@ -10,7 +10,7 @@ function v(val) {
 	document.getElementById("d"). value+= val;
 }
 
-// Evaluae the equation
+// Evaluate the equation
 function e() {
 	try {
 		d(eval(document.getElementById("d").value));
