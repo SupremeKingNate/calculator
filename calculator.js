@@ -7,5 +7,4 @@ function d(val) {
 
 // Type numbers and operators
 function v(val) {
-	document.getElementById("d"). value+= \
-	al;
+	document.getElementById("d"). value+= val;
