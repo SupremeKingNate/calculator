@@ -34,7 +34,8 @@
 }
 
 body {
-	background-image: url("dad.jpeg")
+	background-image: url("dad.jpeg");
+	background-size:40px;
 }
 /* Calculator Buttons */
 .keys {
