@@ -14,15 +14,15 @@
 /* Display */
 .display {
 	background-color:#831315;
-	width: 300px;
+	width: 220px;
 	position: relative;
 	left: 15px;
 	top: 20px;
 	height: 40px;
 }
 
-.display  {
-	positioinputn: relative;
+.display input  {
+	position: relative;
 	left: 2px;
 	top: 2px;
 	height: 30px;
