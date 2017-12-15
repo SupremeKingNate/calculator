@@ -4,8 +4,8 @@
 /* Calculator Box */
 .box {
 	background-color:#0B00A8;
-	height:365px;
-	width: 250px;
+	height:460px;
+	width: 320px;
 	border-radius: 10px;
 	position: relative;
 	top: 80px;
@@ -14,15 +14,15 @@
 /* Display */
 .display {
 	background-color:#831315;
-	width: 220px;
+	width: 300px;
 	position: relative;
 	left: 15px;
 	top: 20px;
 	height: 40px;
 }
 
-.display input {
-	position: relative;
+.display  {
+	positioinputn: relative;
 	left: 2px;
 	top: 2px;
 	height: 30px;
@@ -43,8 +43,8 @@ body {
 	top: 15px;
 }
 .button {
-width: 40px;
-height: 30px;
+width: 50px;
+height: 40px;
 border:none;
 border-radius: 8px;
 margin-left:17px;
